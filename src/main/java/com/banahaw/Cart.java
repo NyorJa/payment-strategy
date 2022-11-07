@@ -6,7 +6,6 @@ public class Cart {
 
     public Cart(double amount) {
         this.amount = amount;
-//        System.out.println("Paid using online account: " + amount);
     }
 
     public void pay(Payment mode) {
