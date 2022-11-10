@@ -1,4 +1,4 @@
-package com.banahaw;
+package com.banahaw.strategy;
 
 public class Mobile implements Payment {
 

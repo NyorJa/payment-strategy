@@ -1,4 +1,4 @@
-package com.banahaw;
+package com.banahaw.strategy;
 
 public interface Payment {
 
